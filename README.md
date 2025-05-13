@@ -1,6 +1,10 @@
 # Home_Service_Solutions
 A cross-platform service marketplace (like Urban Company) built with:
 
+To clone the repository, use the following command
+https://github.com/Kunalmodak08/Home_Service_Solutions.git
+
+
 - **Backend**: Python FastAPI  
 - **Frontend**: React.js  
 
