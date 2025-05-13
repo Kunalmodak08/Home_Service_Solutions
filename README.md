@@ -39,7 +39,8 @@ Home_Service_Solutions
 
 3.Run the FastAPI server:
   uvicorn main:app --reload
-  Visit: http://localhost:8000
+  
+Visit: http://localhost:8000
 
 ### 🖥️  Frontend Setup (React.js)
 1.Navigate to the frontend directory
@@ -50,7 +51,8 @@ Home_Service_Solutions
 
 3.Start the React development server:
   npm start
-  Visit: http://localhost:3000
+ 
+ Visit: http://localhost:3000
 
 
 🛠️ Technologies Used
