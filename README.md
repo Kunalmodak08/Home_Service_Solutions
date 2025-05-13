@@ -13,12 +13,13 @@ https://github.com/Kunalmodak08/Home_Service_Solutions.git
 ## 📁 Project Structure
 Home_Service_Solutions/
 ├── backend/
-│ ├── app/
-│ └── main.py
+│   ├── app/
+│   └── main.py
 ├── frontend/
-│ ├── public/
-│ └── src/
+│   ├── public/
+│   └── src/
 └── README.md
+
 
 
 ---
